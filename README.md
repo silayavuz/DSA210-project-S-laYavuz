@@ -1,14 +1,14 @@
 # DSA210-project-S-laYavuz
-Introduction
+Introduction:
 Social media platforms like TikTok have become integral to daily life, shaping trends in entertainment, and even health. TikTok’s viral dance challenges encourage users to engage in physical activity in a fun and accessible way. In this project I wonder if there’s a correlation between my burned calories and tiktok watching habit.
 It explores whether participation in these dance trends impacts physical activity levels, as measured by data from Apple Health. The study aims to explore how social media trends might influence health and well-being.
 
 
-Motivation
+Motivation:
 In recent years like everyone else my time spent on TikTok increased also. It effected my lifestyle, I wanted to look at in which way does it effect it. In this project I wonder if there’s a correlation between my burned calories and tiktok watching habit. I try to do those dance challenges on TikTok so surely it does affect my physical activity. By analyzing the relationship between engagement in TikTok dance trends and physical activity, this project seeks to uncover whether such trends can act as motivators for more active lifestyles. With Apple Health we will look at my last 1 year burned calories data.
  
 
-Data Sources
+Data Sources:
 I have two primary sources:
 TikTok Data;
 Personal interaction with TikTok dance trends over 1year.
@@ -38,15 +38,15 @@ Findings:
 Through analyzing the data, I discovered a positive correlation between my physical activity, calories burned and the time I spent on TikTok. This suggests that my activity levels may be influenced by my TikTok screen time habits. On days when I burned more calories, I noticed that I either spent less time on TikTok or used the app more passively.
 Interestingly, on some high-calorie-burning days, I spent time on TikTok exploring dance or fitness-related content. This suggests that engaging with active content on social media could motivate me to be more physically active.
 
-Limitations
+Limitations:
 External Influences: Other factors, such as personal schedule or weather, could have influenced my physical activity. 
 Narrow Scope: This project focuses only on dance trends, excluding other types of TikTok content that might indirectly affect physical activity. We only look at one app maybe other factors like being on a trip might have affected my burned calories.
 
-Future Work
+Future Work:
 Investigating how other types of TikTok content, such as fitness challenges or motivational videos, impact health behaviors.
 Also we can expand the studies time range, we can look at wide time span. When did my psychical activities started to increase does TikTok really the only thing that affect it?
 
-Conclusion
+Conclusion:
 This project aims to explore how TikTok, a digital platform known for its creative content, can influence physical activity through its viral dance challenges. The observations indicate a potential positive relationship. These challenges on TikTok has influence on my burned calories, they are correlated with my physical activity. It shows that my hypothesis is correct.
 
 Hypothesis:
