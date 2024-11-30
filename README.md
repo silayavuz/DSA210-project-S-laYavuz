@@ -10,12 +10,12 @@ In recent years like everyone else my time spent on TikTok increased also. It ef
 
 Data Sources
 I have two primary sources:
-TikTok Data
-o	Personal interaction with TikTok dance trends over 1year.
-o	Metrics include participation in dance challenges and engagement levels, such as liking or sharing related content.
-Apple Health Data
-o	Daily records of step counts, active calories burned, and exercise minutes.
-o	These metrics were aligned with TikTok activity to assess potential 
+TikTok Data;
+Personal interaction with TikTok dance trends over 1year.
+Metrics include participation in dance challenges and engagement levels, such as liking or sharing related content.
+Apple Health Data;
+Daily records of step counts, active calories burned, and exercise minutes.
+These metrics were aligned with TikTok activity to assess potential 
 The data from Apple Health included metrics such as daily calories burned and step counts, exported in XML format directly from the application. TikTok data consisted of daily total screen time, exported as JSON files using the platform’s built-in download feature. The dataset spans from August 2023 to August 2024, covering a one-year period. The data was preprocessed using Python to align metrics by date and remove any incomplete entries. Both data sources are considered reliable as they directly reflect my activity recorded by app analytics.
 
 Data Analysis:
