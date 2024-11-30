@@ -19,18 +19,18 @@ o	These metrics were aligned with TikTok activity to assess potential
 The data from Apple Health included metrics such as daily calories burned and step counts, exported in XML format directly from the application. TikTok data consisted of daily total screen time, exported as JSON files using the platform’s built-in download feature. The dataset spans from August 2023 to August 2024, covering a one-year period. The data was preprocessed using Python to align metrics by date and remove any incomplete entries. Both data sources are considered reliable as they directly reflect my activity recorded by app analytics.
 
 Data Analysis:
-Data Collection
+Data Collection:
 TikTok activity data was manually logged to track engagement with dance challenges.
 Apple Health data was exported to analyze physical activity levels over the same period.
-Analysis Plan
+Analysis Plan:
 Compare periods of high TikTok engagement with corresponding physical activity metrics, such as step counts and calories burned.
 Identify patterns or significant increases in physical activity on days of high TikTok dance participation.
-Correlation Analysis
+Correlation Analysis:
 To measure the strength and direction of the relationship between two continuous variables: calories burned and time spent on TikTok.
 Pearson correlation coefficients were calculated to measure the strength of the relationship between TikTok engagement and physical activity levels.
 Outputs a value between -1 (perfect negative correlation) and 1 (perfect positive correlation), with 0 indicating no linear correlation.
 Positive correlation: Higher calories burned tend to occur with higher time spent on TikTok.
-Visualization
+Visualization:
 Use scatterplot, histogram and trendlines to show changes in physical activity during periods of TikTok engagement.
 
 
