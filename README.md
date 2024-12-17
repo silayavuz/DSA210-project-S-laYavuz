@@ -8,19 +8,6 @@ A web-based platform for analyzing TikTok step count trends and related visualiz
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Contributors](#contributors)
-8. [License](#license)
-
----
-
 ## 📝 Overview
 
 TikTok Step Analysis is designed to help users:
@@ -60,35 +47,33 @@ To run this project locally:
 
 1. Clone the repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/your-username/tiktok-step-analysis.git
    cd tiktok-step-analysis
-   ```bash
 
-   ````
+   ```
 
 2. Install dependencies:
 
-   ````bash
-   npm install
    ```bash
+   npm install
 
-   ````
+   ```
 
 3. Start the development server:
 
-   ````bash
-   npm run dev
    ```bash
+   npm run dev
 
-   ````
+   ```
 
 4. Open the development server in your browser:
    http://localhost:5173
 
-📚 Usage
-• Visit the live project:
-https://dsa-210-project-s-la-yavuz-aktf.vercel.app/
-• Navigate through the interface to:
-• Interact with dynamic charts and step data.
-• Explore step count trends and insights.s
+## 📚 Usage
+
+- Visit the live project:
+  https://dsa-210-project-s-la-yavuz-aktf.vercel.app/
+- Navigate through the interface to:
+- Interact with dynamic charts and step data.
+- Explore step count trends and insights.s
