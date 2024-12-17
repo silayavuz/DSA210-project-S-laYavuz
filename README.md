@@ -41,6 +41,14 @@ This project was built using the following tools and frameworks:
 
 ---
 
+## 🛠 Analysis Files
+
+The data analysis is located in the `utils` folder.  
+You can find the main analysis file here:  
+[analysis.ipynb](https://github.com/silayavuz/DSA210-project-S-laYavuz/blob/main/utils/analysis.ipynb)
+
+---
+
 ## 💻 Installation
 
 To run this project locally:
