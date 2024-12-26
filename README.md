@@ -17,7 +17,9 @@ TikTok Step Analysis is designed to help users:
 - Interact with a clean and responsive user interface.
 
 ---
-
+## ➡️ Hypothesis
+- The hypothesis states that increased TikTok watch time correlates with reduced physical activity (steps). We expected this effect to be more prominent on weekends and during evening hours.
+---  
 ## ⭐ Features
 
 - **Dynamic Data Visualization**: View step count trends with interactive charts.
@@ -47,6 +49,25 @@ The data analysis is located in the `utils` folder.
 You can find the main analysis file here:  
 [analysis.ipynb](https://github.com/silayavuz/DSA210-project-S-laYavuz/blob/main/utils/analysis.ipynb)
 
+---
+
+## 🔒 Limitations
+- **External influences**:
+  Other factors, such as personal schedule or weather, could have influenced my physical activity. 
+- **Narrow Scope**:
+  TikTok data only shows the last six months. Making it harder to study long-term patterns.
+---
+
+## 🔎 Findings
+I will find that there is negative correlation between my TikTok watching habits over the past 6 months and daily step counts.
+On days with higher TikTok screen time, step counts will be consistently lower. 
+
+---
+
+## ⚙️ Future Work
+
+- Look at how other apps and platforms, such as Instagram or YouTube, impact step counts.
+- Analyze other factors, such as vacations, fitness routines, or seasonal activities to contextualize changes in step counts.
 ---
 
 ## 💻 Installation
